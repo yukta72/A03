@@ -10,7 +10,7 @@ Definitions:
 8. Branch:- is a unique set of code changes with a unique name. Each repository can have one or more branches.
 9. Merge:- merge command lets you take the independent lines of development created by git branch and integrate them into a 
 single branch
-10. Merge Conflict:- It canhappen when you merge branches, and Git needs your help to decide which changes to do in the final merge. The changes can be on different lines, or even in different files.
+10. Merge Conflict:- It can happen when you merge branches, and Git needs your help to decide which changes to do in the final merge. The changes can be on different lines, or even in different files.
 11. Fetch:- It downloads the changes from the remote to your local repository.
 12. Remote:- is a common repository that all team members use to exchange their changes. 
 
@@ -68,4 +68,6 @@ Step 3: commit changes:
 
 •	Click Commit changes button (green button).
 
+Step 4: open a pull request:
 
+In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).
