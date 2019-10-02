@@ -1,5 +1,5 @@
 # A03
-Create a tutorial on how to use GitHub inside of the Readme.MD 
+This is a tutorial on how to use GitHub inside of the Readme.MD 
 
 1. GIT:- Git is a distributed version-control system (VCS) for tracking changes in source code during software development.
 
