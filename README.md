@@ -38,12 +38,17 @@ Step 1: Create a respository:
 
 •	Select Initialize this repository with a README.
 
-
 step 2: create a branch: 
-Branch is a unique set of code changes with a unique name. Each repository can have one or more branches.
-Go to your new repository.
-Click the drop down that says branch: master.
-Type a branch name, readme-edits, into the new branch text box.
-Select the blue Create branch box or hit “Enter” on your keyboard.
+
+•	Branch is a unique set of code changes with a unique name. Each repository can have one or more branches. 
+1.	Follow these steps
+
+•	Go to your new repository.
+
+•	Click the drop down that says branch: master. 
+
+•	Type a branch name, readme-edits, into the new branch text box. 
+
+•	Select the blue Create branch box or hit “Enter” on your keyboard.
 
 Step 3: Make and commit changes
