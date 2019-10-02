@@ -70,4 +70,33 @@ Step 3: commit changes:
 
 Step 4: open a pull request:
 
-In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).
+•	Pull: - pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub
+ 1. Follow these steps- 
+ 
+•	Click the Pull Request tab, click the green New pull request button.
+
+•	select the branch you made, to compare with master (the original).
+
+•	Look over your changes on the Compare page, make sure they’re what you want to submit.
+
+•	When you are done, click the big green Create Pull Request button.
+
+•	Give your pull request a title and describe your changes.
+
+Step 5. Merge your Pull Request:
+
+•	Merge: - merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+
+•	Merge Conflict: - It can happen when you merge branches, and Git needs your help to decide which changes to do in the final merge. The changes can be on different lines, or even in different files.
+
+ 1.Follow these steps:-
+•	Click the green Merge pull request button to merge the changes into master.
+
+•	Click Confirm merge.
+
+•	You can delete the branch, since its changes have been done, the Delete branch button is the purple box.
+
+
+
+
+
