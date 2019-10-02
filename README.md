@@ -21,12 +21,13 @@ GitHub.com is a site for online storage of Git repositories, but it has its own 
 Step 1: Create a respository: 
 
 •	Repository is a central file storage location. This may include multiple source code files, as well as other resources used by the program. It is a place to store things.
-Follow these steps- 
-In the right corner,click and then select New repository.
-Name your repository.
-Make your respository private or public (however you want it).
-Write a short description.
-Select Initialize this repository with a README.
+ 	1. Follow these steps- 
+•	In the right corner, click and then select New repository.
+•	Name your repository.
+•	Make your repository private or public (however you want it).
+•	Write a short description.
+•	Select Initialize this repository with a README.
+
 
 step 2: create a branch: 
 Branch is a unique set of code changes with a unique name. Each repository can have one or more branches.
