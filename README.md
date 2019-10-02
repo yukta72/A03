@@ -14,9 +14,13 @@ single branch
 11. Fetch:- It downloads the changes from the remote to your local repository.
 12. Remote:- is a common repository that all team members use to exchange their changes. 
 
-This is a tutorial on how to use GitHub inside of the Readme.MD 
-Step 0: Install Git and create a in github?
-GitHub.com is a site for online storage of Git repositories, but it has its own features too.It is a platform for coding and it lets and other work on projects together from anywhere. Git is a distributed version-control system (VCS) for tracking changes in source code during software development.
+This is a tutorial on how to use GitHub inside of the Readme.MD
+
+Step 0: Install Git and create a in GitHub?
+
+•	GitHub.com is a site for online storage of Git repositories, but it has its own features too.It is a platform for coding and it lets and other work on projects together from anywhere.
+
+•	 Git is a distributed version-control system (VCS) for tracking changes in source code during software development.
 
 Step 1: Create a respository: 
 
