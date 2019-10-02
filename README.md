@@ -3,7 +3,7 @@ Definitions:
 1. GIT:- Git is a distributed version-control system (VCS) for tracking changes in source code during software development.
 2. GITHUB:- GitHub.com is a site for online storage of Git repositories, but it has its own features too.
 3. Repository:- is a central file storage location. This may include multiple source code files, as well as other resources used by the program. It is a place to store things.
-4. Clone:- it a command that can download an existing Git repository to your local computer.
+4. Clone:- is a command that can download an existing Git repository to your local computer.
 5. Commit:- is an individual change to a file. It allows you to keep record of what changes were made when and by who. everytime its savd, it creates a new resporsitory.
 6. Push:- It refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub
 7. Pull:- pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub
