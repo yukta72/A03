@@ -19,7 +19,7 @@ Step 0: Install Git and create a in github?
 GitHub.com is a site for online storage of Git repositories, but it has its own features too.It is a platform for coding and it lets and other work on projects together from anywhere. Git is a distributed version-control system (VCS) for tracking changes in source code during software development.
 
 Step 1: Create a respository: 
-Repository is a central file storage location. This may include multiple source code files, as well as other resources used by the program. It is a place to store things.
+•	Repository is a central file storage location. This may include multiple source code files, as well as other resources used by the program. It is a place to store things.
 Follow these steps- 
 In the right corner,click and then select New repository.
 Name your repository.
