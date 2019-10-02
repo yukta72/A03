@@ -52,4 +52,20 @@ step 2: create a branch:
 
 •	Select the blue Create branch box or hit “Enter” on your keyboard.
 
-Step 3: Make and commit changes
+Step 3: commit changes:
+
+•	Commit is an individual change to a file. It allows you to keep record of what changes were made when and by who. every time its saved, it creates a new repository.
+
+1.	Follow these steps-
+
+•	Click the README.md file.
+
+•	Click the pencil icon in the upper right corner of the file to edit.
+
+•	In the editor, write something.
+
+•	Write a commit message of the changes.
+
+•	Click Commit changes button (green button).
+
+
