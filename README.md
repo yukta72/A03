@@ -40,8 +40,9 @@ Step 1: Create a respository:
 
 step 2: create a branch: 
 
-•	Branch is a unique set of code changes with a unique name. Each repository can have one or more branches. 
-1.	Follow these steps
+•	Branch is a unique set of code changes with a unique name. Each repository can have one or more branches.
+
+  1.	Follow these steps-
 
 •	Go to your new repository.
 
